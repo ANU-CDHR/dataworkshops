@@ -1,115 +1,97 @@
-,Tweets,User,User_statuses_count,user_followers,User_location,User_verified,fav_count,rt_count,tweet_date,User_lat,User_lng
-0,"RT @dgolumbia: 1/ in the olden days, I used to occasionally speak or write about #digitalhumanities. I've been trolled into silence about i…",Paul A. Bové,13883,390,"Wexford, PA",False,0,2,2020-10-11 16:00:37,40.6264561,-80.055891
-1,"RT @dgolumbia: 1/ in the olden days, I used to occasionally speak or write about #digitalhumanities. I've been trolled into silence about i…",K. White,30765,532,,False,0,2,2020-10-11 14:23:06,,
-2,"1/ in the olden days, I used to occasionally speak or write about #digitalhumanities. I've been trolled into silenc… https://t.co/ba0tFydaSH",David Prospefity Golumbia,85558,5578,"Richmond, VA",False,3,2,2020-10-11 14:08:53,37.5385087,-77.43428
-3,RT @dariahTeach: Looking to improve your #creativeskills? Why not apply to one or two of our #virtualcourses and #virtualworkshops on #desi…,Susan Schreibman,1945,981,Maastricht,False,0,4,2020-10-10 17:16:19,50.8512438,5.6909768
-4,RT @dariahTeach: Looking to improve your #creativeskills? Why not apply to one or two of our #virtualcourses and #virtualworkshops on #desi…,K. White,30765,532,,False,0,4,2020-10-10 15:22:50,,
-5,RT @dariahTeach: Looking to improve your #creativeskills? Why not apply to one or two of our #virtualcourses and #virtualworkshops on #desi…,DesignThinkBot,262906,8212,,False,0,4,2020-10-10 15:20:08,,
-6,RT @dariahTeach: Looking to improve your #creativeskills? Why not apply to one or two of our #virtualcourses and #virtualworkshops on #desi…,SprintbaseBot,93733,1014,,False,0,4,2020-10-10 15:08:31,,
-7,Looking to improve your #creativeskills? Why not apply to one or two of our #virtualcourses and #virtualworkshops o… https://t.co/UdEQajSq2f,#dariahTeach,1375,1170,,False,1,4,2020-10-10 15:01:01,,
-8,RT @DigBlk: Two hours until “The Power of Black Art” ! Join us right here on Twitter or on our YouTube channel for the livestream of the ev…,Vanessa Holloway 🤬🤬🤬,1337,55,,False,0,3,2020-10-09 16:49:31,,
-9,RT @DrJSchramm: Great discussion in the #Digitalhumanities session about how this work counts for tenure and promotion. Calls for eclectic…,K. White,30765,532,,False,0,1,2020-10-09 16:22:51,,
-10,Great discussion in the #Digitalhumanities session about how this work counts for tenure and promotion. Calls for e… https://t.co/c8sP9GORzy,Jeff Schramm,8865,1874,"Rolla, MO",False,1,1,2020-10-09 15:51:17,37.9509324,-91.7708076
-11,RT @DigBlk: Two hours until “The Power of Black Art” ! Join us right here on Twitter or on our YouTube channel for the livestream of the ev…,triplingual,51951,1367,"New Haven, CT",False,0,3,2020-10-09 15:25:57,41.3082138,-72.9250518
-12,RT @DigBlk: Two hours until “The Power of Black Art” ! Join us right here on Twitter or on our YouTube channel for the livestream of the ev…,K. White,30765,532,,False,0,3,2020-10-09 15:23:01,,
-13,Two hours until “The Power of Black Art” ! Join us right here on Twitter or on our YouTube channel for the livestre… https://t.co/7lV7kQOPRp,Center for Black Digital Research,478,1075,,False,0,3,2020-10-09 15:00:08,,
-14,RT @museweb: MW Conference Deadline! Take some time this afternoon to submit your proposal for the 25th annual MuseWeb (MW) Conference next…,K. White,30765,532,,False,0,1,2020-10-09 13:22:58,,
-15,MW Conference Deadline! Take some time this afternoon to submit your proposal for the 25th annual MuseWeb (MW) Conf… https://t.co/v9JUChkDz2,museweb,19480,63505,"April 5-9, 2021",False,1,1,2020-10-09 13:05:24,-34.3610257,-54.0683009
-16,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",GeohumanDARIAH,578,200,,False,0,54,2020-10-09 12:12:52,,
-17,@rogermexiko @FlorianSprenge8 @bernardionysius @NoisyNarrowBand @maramills @mkirschenbaum Maybe something recent by… https://t.co/1LtxU6ejt9,Till A. Heilmann,252,151,,False,2,0,2020-10-09 11:25:05,,
-18,"RT @fatmaaladag: Digital Humanities and Ottoman Studies Workshop (updated)
-https://t.co/eZSQJSZ8fp
-#digitalhumanities #ottomanstudies https…",tuubanurs,423,157,Türkiye,False,0,12,2020-10-08 22:05:22,38.9597594,34.9249653
-19,"RT @idw_online_en: Do you have a weakness for big data, algorithms, and gaming? Than join the third #FAU Open Research Challenge and solve…",K. White,30765,532,,False,0,1,2020-10-08 14:23:13,,
-20,"Do you have a weakness for big data, algorithms, and gaming? Than join the third #FAU Open Research Challenge and s… https://t.co/ARpoWcLl9D",idw News,14555,230,Germany,False,4,1,2020-10-08 14:00:14,51.0834196,10.4234469
-21,"RT @desemboltura: Looking at the Literary: Data-Driven Visualizations and the Comédie-Française Registers Project #digitalhumanities
+,text,user.name,user.statuses_count,user.screen_name,user.followers_count,user.location,user.verified,user.profile_image_url_https,favorite_count,retweet_count,created_at,hashtags,quoted_hashtags,user_lat,user_lng
+0,RT @EmilyJLB: Folks who’ve built digital editions in Wordpress: do you know of any plugins to enhance the search functionality? Or really j…,blueciren,230,kiun2020,1,,False,https://pbs.twimg.com/profile_images/1281551244796981248/M0durICt_normal.jpg,0,3,2020-12-13 11:42:48,[],[],,
+1,RT @EmilyJLB: Folks who’ve built digital editions in Wordpress: do you know of any plugins to enhance the search functionality? Or really j…,RedInt,6669,desemboltura,800,대한민국 서울,False,https://pbs.twimg.com/profile_images/1092835469216276480/bCDlDVxQ_normal.jpg,0,3,2020-12-13 09:11:08,[],[],37.5666791,126.9782914
+2,"RT @faberllull: #opencall 
 
-""They…",K. White,30765,532,,False,0,1,2020-10-08 12:23:00,,
-22,Looking at the Literary: Data-Driven Visualizations and the Comédie-Française Registers Project #digitalhumanities… https://t.co/V9d4CCLKcS,RedInt,6377,786,대한민국 서울,False,2,1,2020-10-08 11:57:38,37.5666791,126.9782914
-23,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Maxime Durand,2260,1694,"Laval, Qc",False,0,54,2020-10-08 11:39:21,45.60558895,-73.73441730569056
-24,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Jenn O'Lantern,10112,800,USA,False,0,54,2020-10-08 11:30:06,39.7837304,-100.4458825
-25,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Andreas Angourakis,2185,1273,"Cambridge, England",False,0,54,2020-10-08 09:56:35,52.2034823,0.1235817
-26,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Doris Gutsmiedl-Schümann,1181,420,,False,0,54,2020-10-08 08:55:27,,
-27,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",George Bruseker,244,316,"Herakleion , Crete, Greece",False,0,54,2020-10-08 08:41:32,35.3400127,25.1343475
-28,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Dr Megan Kasten,1043,504,"Glasgow, Scotland",False,0,54,2020-10-08 08:27:14,55.8609825,-4.2488787
-29,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",HistoryBathSpa,549,331,"Bath, England",False,0,54,2020-10-08 08:18:23,51.380926349999996,-2.37418971512966
-30,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Dr Sara Perry,8433,9137,"London, England",False,0,54,2020-10-08 08:15:30,51.5073219,-0.1276474
-31,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Bouldering Epigrammetry,474,139,"Graz, Österreich",False,0,54,2020-10-08 08:10:37,47.0708678,15.4382786
-32,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",100DaysofDH,722,175,,False,0,54,2020-10-08 08:09:19,,
-33,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",elena cantarell,2124,341,,False,0,54,2020-10-08 07:58:39,,
-34,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…","Dr. Kira Jones, unaccredited prismatoid",6904,1344,Atlanta,False,0,54,2020-10-08 03:11:08,33.7490987,-84.3901849
-35,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Game Dev News,79779,3110,USA,False,0,54,2020-10-08 00:58:20,39.7837304,-100.4458825
-36,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Jared Hansen,1046,166,,False,0,54,2020-10-08 00:27:28,,
-37,"RT @kate_historian: Happy 🔥Fire Prevention Week🔥
+Science, technology and humanities or science and #digitalhumanities?
 
-Check out my first DC Historic Sites tour, DC Firehouses, online or via our app with @DCP…",Rosie,21,45,,False,0,4,2020-10-07 23:08:00,,
-38,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Fyk O.M. Fei 😷,75283,995,Havgapet,False,0,54,2020-10-07 22:37:33,58.9465857,5.5722478
-39,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Miguel Ramirez,2542,216,"Melbourne, Australia",False,0,54,2020-10-07 22:18:13,-37.8142176,144.9631608
-40,"RT @kate_historian: Happy 🔥Fire Prevention Week🔥
+We hope to debate on the multi-direction…",faberllull,2512,faberllull,2402,Olot & Andorra,False,https://pbs.twimg.com/profile_images/1277886432791728128/ql69JfW0_normal.jpg,0,7,2020-12-12 20:03:27,"['opencall', 'digitalhumanities']",[],,
+3,"RT @faberllull: #opencall 
 
-Check out my first DC Historic Sites tour, DC Firehouses, online or via our app with @DCP…",Jessica Unger,533,307,"Washington, DC",False,0,4,2020-10-07 21:36:27,38.8949924,-77.0365581
-41,"RT @kate_historian: Happy 🔥Fire Prevention Week🔥
+Science, technology and humanities or science and #digitalhumanities?
 
-Check out my first DC Historic Sites tour, DC Firehouses, online or via our app with @DCP…",Vanessa Holloway 🤬🤬🤬,1337,55,,False,0,4,2020-10-07 21:34:55,,
-42,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Tom Armitage,16525,2491,"Edinburgh, Scotland",False,0,54,2020-10-07 21:23:44,55.9533456,-3.1883749
-43,"RT @kate_historian: Happy 🔥Fire Prevention Week🔥
+We hope to debate on the multi-direction…",Llull London,3701,IRLlull_London,1637,UK and Ireland,False,https://pbs.twimg.com/profile_images/1060867018587627520/7WdURwcM_normal.jpg,0,7,2020-12-12 20:02:21,"['opencall', 'digitalhumanities']",[],53.3989226,-2.3525569
+4,RT @EEditiones: Have you been nice or naughty? We still have something to look forward to! Watch this space through December for our #OpenS…,Magdalena Turska,1144,magdaturska,351,Warsaw,False,https://pbs.twimg.com/profile_images/464165916637290496/ZtyYVOkK_normal.jpeg,0,12,2020-12-12 12:35:23,[],[],52.2319581,21.0067249
+5,RT @EmilyJLB: Folks who’ve built digital editions in Wordpress: do you know of any plugins to enhance the search functionality? Or really j…,K. White,33108,DigtalHumanatee,584,,False,https://pbs.twimg.com/profile_images/1316470327149506566/dHIMR7Qq_normal.jpg,0,3,2020-12-11 19:22:51,[],[],,
+6,Folks who’ve built digital editions in Wordpress: do you know of any plugins to enhance the search functionality? O… https://t.co/xC4JLFwJiQ,Dr Emily Bell,12036,EmilyJLB,5170,University of Leeds,False,https://pbs.twimg.com/profile_images/1330557422721765377/Dp-W0Y8D_normal.jpg,3,3,2020-12-11 19:01:38,[],[],53.8066846,-1.5560378380435451
+7,"The students made a Instagram exhibit and you can check it out here! 
+https://t.co/eqUqfBoALy
+Is it just me or do w… https://t.co/y7xeuY6sFz",Georgetown University Department of English,1271,GU_ENGL,246,"Washington, DC",False,https://pbs.twimg.com/profile_images/1063152535614185474/oJLBRJy8_normal.jpg,1,0,2020-12-11 18:42:35,[],[],38.8949924,-77.0365581
+8,RT @EEditiones: Have you been nice or naughty? We still have something to look forward to! Watch this space through December for our #OpenS…,Dennis Ried,395,riedde,105,"Waldsee, Deutschland",False,https://pbs.twimg.com/profile_images/901096321590976515/ynWOZfji_normal.jpg,0,12,2020-12-11 17:44:55,[],[],49.3953008,8.440276
+9,"RT @YaleDHLab: We're thrilled to share a sneak peek of BlakeTint, a visualization tool for exploring William Blake's use of color. Users ca…",Typiespectre,1007,typiespectre,23,,False,https://pbs.twimg.com/profile_images/1288444479708336129/XWy-SS5L_normal.jpg,0,66,2020-12-11 16:25:38,[],[],,
+10,RT @EEditiones: Have you been nice or naughty? We still have something to look forward to! Watch this space through December for our #OpenS…,Friprogramvarusyndikatet,374,fps_gbg,23,"Gothenburg, Sweden",False,https://pbs.twimg.com/profile_images/1101172627459244032/bWZoSnE1_normal.png,0,12,2020-12-11 16:06:09,[],[],57.7072326,11.9670171
+11,RT @EEditiones: Have you been nice or naughty? We still have something to look forward to! Watch this space through December for our #OpenS…,Leif-Jöran Olsson,2419,ellefj,171,,False,https://pbs.twimg.com/profile_images/3228659596/b8bdc3bbf1c443d99b9a0d11b50ea2d4_normal.png,0,12,2020-12-11 16:02:44,[],[],,
+12,RT @EEditiones: Have you been nice or naughty? We still have something to look forward to! Watch this space through December for our #OpenS…,Boris Lehečka,530,XmlTeiCz,52,Praha,False,https://pbs.twimg.com/profile_images/1226452918959771650/q_Qt-vuH_normal.jpg,0,12,2020-12-11 15:51:06,[],[],50.0874654,14.4212535
+13,"RT @YaleDHLab: We're thrilled to share a sneak peek of BlakeTint, a visualization tool for exploring William Blake's use of color. Users ca…",RedInt,6669,desemboltura,800,대한민국 서울,False,https://pbs.twimg.com/profile_images/1092835469216276480/bCDlDVxQ_normal.jpg,0,66,2020-12-11 15:36:20,[],[],37.5666791,126.9782914
+14,RT @EEditiones: Have you been nice or naughty? We still have something to look forward to! Watch this space through December for our #OpenS…,eXist Solutions,204,existsolutions,275,Germany,False,https://pbs.twimg.com/profile_images/1257640997804261380/VfGBEjui_normal.png,0,12,2020-12-11 15:23:52,[],[],51.0834196,10.4234469
+15,RT @EEditiones: Have you been nice or naughty? We still have something to look forward to! Watch this space through December for our #OpenS…,K. White,33108,DigtalHumanatee,584,,False,https://pbs.twimg.com/profile_images/1316470327149506566/dHIMR7Qq_normal.jpg,0,12,2020-12-11 14:22:57,[],[],,
+16,RT @EEditiones: Have you been nice or naughty? We still have something to look forward to! Watch this space through December for our #OpenS…,Joe Wicentowski,4371,joewiz,868,"Washington, DC",False,https://pbs.twimg.com/profile_images/2666935066/78c0a677096a908d3574d51be4693bfd_normal.png,0,12,2020-12-11 14:22:24,[],[],38.8949924,-77.0365581
+17,RT @EEditiones: Have you been nice or naughty? We still have something to look forward to! Watch this space through December for our #OpenS…,TEI Publisher,79,tei_publisher,141,internet,False,https://pbs.twimg.com/profile_images/1257678952551854080/LkRNJalX_normal.png,0,12,2020-12-11 14:21:11,[],[],19.37218875,-72.33465445105234
+18,RT @EEditiones: Have you been nice or naughty? We still have something to look forward to! Watch this space through December for our #OpenS…,sciBot 💻,19733,sciBot6,214,,False,https://pbs.twimg.com/profile_images/1282174476596023298/ynNv3VqS_normal.jpg,0,12,2020-12-11 14:19:26,[],[],,
+19,RT @EEditiones: Have you been nice or naughty? We still have something to look forward to! Watch this space through December for our #OpenS…,Andreas Kraenzle,74,AndreasKraenzle,72,Zurich,False,https://pbs.twimg.com/profile_images/1257349851181875201/N-ifYVgk_normal.jpg,0,12,2020-12-11 14:13:30,[],[],47.3744489,8.5410422
+20,Have you been nice or naughty? We still have something to look forward to! Watch this space through December for ou… https://t.co/6nnIOFNDJg,e-editiones.org,62,EEditiones,213,"St. Gallen, Switzerland",False,https://pbs.twimg.com/profile_images/1268132528717803521/fvqyjTOA_normal.jpg,10,12,2020-12-11 14:12:58,[],[],47.4250593,9.3765878
+21,"This was our last #DHangout of term, but we hope to see you again in the new year!✨
+And if you missed today's… https://t.co/BH3MwVUamB",Digital Humanities Hub | Lancaster University,1006,LancsDigHum,1203,United Kingdom,False,https://pbs.twimg.com/profile_images/1047099162372820997/bXVkjQX6_normal.jpg,3,0,2020-12-10 16:45:12,['DHangout'],[],54.7023545,-3.2765753
+22,"RT @DiSC_uibk: If you are a researcher in the field(s) of #CulturalHeritage, #DigitalHumanities, #ComputerScience, and/or #DataScience and…",K. White,33108,DigtalHumanatee,584,,False,https://pbs.twimg.com/profile_images/1316470327149506566/dHIMR7Qq_normal.jpg,0,2,2020-12-10 13:22:51,"['CulturalHeritage', 'DigitalHumanities', 'ComputerScience', 'DataScience']",[],,
+23,"If you are a researcher in the field(s) of #CulturalHeritage, #DigitalHumanities, #ComputerScience, and/or… https://t.co/ybQYB3xpzX",Digital Science Center (DiSC),205,DiSC_uibk,224,"Innsbruck, Austria",False,https://pbs.twimg.com/profile_images/1202148687180435456/friQttRU_normal.jpg,3,2,2020-12-10 12:27:48,"['CulturalHeritage', 'DigitalHumanities', 'ComputerScience']",[],47.2654296,11.3927685
+24,"RT @faberllull: #opencall 
 
-Check out my first DC Historic Sites tour, DC Firehouses, online or via our app with @DCP…",K. White,30765,532,,False,0,4,2020-10-07 21:22:53,,
-44,"Happy 🔥Fire Prevention Week🔥
+Science, technology and humanities or science and #digitalhumanities?
 
-Check out my first DC Historic Sites tour, DC Firehouses, online or via our app with… https://t.co/vtSbO5GPiy",Kathryn Morgan,26,184,,False,4,4,2020-10-07 21:18:44,,
-45,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Zoe Arthurs,1361,303,"West Midlands, England",False,0,54,2020-10-07 21:12:20,52.5050033,-1.964396123331272
-46,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Kalliopi Kontiza,9672,1157,"London,UK",False,0,54,2020-10-07 20:55:34,51.5073219,-0.1276474
-47,@tkinias Yes! I often make jokes about universities'/historians' incompetence with computers/internet/technology (p… https://t.co/9foYXKX4lH,Mikko Toivanen,769,561,,False,1,0,2020-10-07 20:24:54,,
-48,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Rebecca Lambert: Punk As F***😊,90282,5056,An Archaeological Rabbit Hole,False,0,54,2020-10-07 20:19:40,51.2003187,1.1653792
-49,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Anna,4938,131,,False,0,54,2020-10-07 19:17:38,,
-50,RT @museweb: Don’t miss your chance to be published! The deadline to submit an #MW21 Conference proposal has been extended to October 9. Yo…,Heather,906,396,,False,0,4,2020-10-07 18:47:58,,
-51,"RT @inklessEditions: According to the description of Nicholas' room in The Miller's Tale, how much do you think student's rooms have change…",K. White,30765,532,,False,0,1,2020-10-07 18:22:51,,
-52,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Àlex,38431,1834,,False,0,54,2020-10-07 17:48:11,,
-53,"According to the description of Nicholas' room in The Miller's Tale, how much do you think student's rooms have cha… https://t.co/ub7jvZzjST",Inkless Editions,133,158,,False,1,1,2020-10-07 17:40:07,,
-54,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Isabel Boj Cullell,1877,86,Barcelona,False,0,54,2020-10-07 17:35:34,41.3828939,2.1774322
-55,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Tom Chadwin,19953,1471,Northumberland,False,0,54,2020-10-07 16:37:57,55.25,-2.000559
-56,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Mireia Comas Via🎗️,1798,1036,Barcelona-Catalunya,False,0,54,2020-10-07 16:27:52,41.3828939,2.1774322
-57,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Farah Sheikh Garcia,211,15,"Barcelona, España",False,0,54,2020-10-07 16:14:36,41.3828939,2.1774322
-58,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Núria Jornet,4789,1143,,False,0,54,2020-10-07 16:04:11,,
-59,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Sebastian Hageneuer,767,378,"Bonn, Deutschland",False,0,54,2020-10-07 15:57:06,50.735851,7.10066
-60,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Pgogy WebStuff,15513,1053,All Updates from Pgogy,False,0,54,2020-10-07 15:48:50,,
-61,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Louise Nicholas,8649,999,United Kingdom,False,0,54,2020-10-07 15:48:00,54.7023545,-3.2765753
-62,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Dr Barbora Wouters,2134,618,"Gent, Belgium",False,0,54,2020-10-07 15:45:53,51.0538286,3.7250121
-63,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Iris Rodríguez Alcaide,6048,2423,🌇 Madriz,False,0,54,2020-10-07 15:35:10,13.510956,-86.3423061
-64,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Tine Rassalle,2718,545,North Carolina,False,0,54,2020-10-07 15:32:17,35.6729639,-79.0392919
-65,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",RedInt,6377,786,대한민국 서울,False,0,54,2020-10-07 15:31:57,37.5666791,126.9782914
-66,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Francesc C. Conesa,2384,437,TGN - La Laguna - Cambridge,False,0,54,2020-10-07 15:26:51,,
-67,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Bartomeu Vallori,3947,507,"Illes Balears, Espanya",False,0,54,2020-10-07 15:25:03,39.6134018,2.8804305326400756
-68,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Mª del Mar Rodríguez,19508,1155,Madrid y Albalate de Zorita,False,0,54,2020-10-07 15:24:27,40.3087162,-2.8427164
-69,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",K. White,30765,532,,False,0,54,2020-10-07 15:22:54,,
-70,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Ivan Briz Godino,9495,286,"Ushuaia, Argentina",False,0,54,2020-10-07 15:22:35,-54.8069332,-68.3073246
-71,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Hans Huisman,494,141,,False,0,54,2020-10-07 15:19:55,,
-72,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Sara Gutierrez Enriq,6358,315,"la Vall d'Hebron, Barcelona",False,0,54,2020-10-07 15:19:15,41.4249128,2.1423965
-73,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",erik champion,32582,1639,"Perth, Australia",False,0,54,2020-10-07 15:17:48,-31.9527121,115.8604796
-74,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Enrico R. Crema,1050,1043,"London, Europe",False,0,54,2020-10-07 15:15:48,51.4932696,0.0553015
-75,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Alison Atkinson-Phillip,37988,1786,"Newcastle Upon Tyne, England",False,0,54,2020-10-07 15:15:44,54.9738474,-1.6131572
-76,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Shawn Graham,32598,5982,the interwebs,False,0,54,2020-10-07 15:13:33,42.6410472,-70.6165149
-77,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Josema Galán,7979,367,,False,0,54,2020-10-07 15:10:49,,
-78,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Rebecca O'S,816,218,,False,0,54,2020-10-07 15:10:32,,
-79,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",dr Iza Romanowska,6305,1871,,False,0,54,2020-10-07 15:08:20,,
-80,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Linda Bjerketvedt,505,370,Scottish Borders,False,0,54,2020-10-07 15:08:01,55.583333,-2.833333
-81,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Pol Junyent,4451,819,Igualada,False,0,54,2020-10-07 15:07:48,41.5790182,1.617346
-82,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Maria Feliu-Torruella,1116,479,,False,0,54,2020-10-07 15:06:32,,
-83,"RT @TAMU_CoDHR: If you missed @LauraK_Nelson guest lecture last Friday or you want to see it again, click the link below to watch the recor…","Katayoun Torabi, Ph.D.",60,58,"College Station, TX",False,0,2,2020-10-07 15:05:33,30.5955289,-96.3071042
-84,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Maria Yubero,2327,416,Barcelona - Edinburgh,False,0,54,2020-10-07 15:05:00,,
-85,"RT @xrubiocampillo: Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri we a…",Natalia Égüez,1742,1332,Tenerife / Barcelona,False,0,54,2020-10-07 15:04:47,41.4165104,2.1639268
-86,"Do you want to pursue a PhD on #heritage, #archaeogaming, #game-based learning or #digitalhumanities? At @didpatri… https://t.co/uwLG182MGd",Xavier Rubio-Campillo,3149,708,Barcelona,False,52,54,2020-10-07 15:02:24,41.3828939,2.1774322
-87,RT @museweb: Don’t miss your chance to be published! The deadline to submit an #MW21 Conference proposal has been extended to October 9. Yo…,"Stephania Savva, PhD",27748,2388,"Limassol, Cyprus",False,0,4,2020-10-07 10:44:57,34.6852901,33.0332657
-88,RT @museweb: Don’t miss your chance to be published! The deadline to submit an #MW21 Conference proposal has been extended to October 9. Yo…,K. White,30765,532,,False,0,4,2020-10-07 00:22:51,,
-89,RT @museweb: Don’t miss your chance to be published! The deadline to submit an #MW21 Conference proposal has been extended to October 9. Yo…,Rob Lancefield,1703,1252,,False,0,4,2020-10-06 23:40:12,,
-90,Don’t miss your chance to be published! The deadline to submit an #MW21 Conference proposal has been extended to Oc… https://t.co/0kD0u7aN4o,museweb,19480,63505,"April 5-9, 2021",False,3,4,2020-10-06 23:30:05,-34.3610257,-54.0683009
-91,RT @drjmil: Applications open for the Activist Studio West Summer 2021 #UC #HBCU undergraduate  #digitalhumanities program at UC Irvine.  #…,K. White,30765,532,,False,0,1,2020-10-06 18:22:51,,
-92,Applications open for the Activist Studio West Summer 2021 #UC #HBCU undergraduate  #digitalhumanities program at U… https://t.co/KA7zY8SnFW,Jessica MillwardPhD,2305,3048,"Los Angeles, CA.",False,0,1,2020-10-06 17:36:05,34.0536909,-118.2427666
-93,"RT @TAMU_CoDHR: If you missed @LauraK_Nelson guest lecture last Friday or you want to see it again, click the link below to watch the recor…",K. White,30765,532,,False,0,2,2020-10-06 15:23:02,,
-94,"If you missed @LauraK_Nelson guest lecture last Friday or you want to see it again, click the link below to watch t… https://t.co/pmwJU2WXO0",TAMU_CoDHR,508,913,Texas A&M University,False,1,2,2020-10-06 14:52:56,30.610836499999998,-96.35212800264426
-95,RT @CARomein: If there is anyone interested in working on Linked Legal Data (early modern ordinances) - drop me or @anwagnerdreas a line as…,Dr Coleman A Dennehy,16252,3255,"Dublin City, Ireland",False,0,6,2020-10-05 19:50:56,53.3497645,-6.2602732
-96,RT @Pares_Nicolas: Are you a #DigitalHumanities #OpenData #Researchers or service provider? @RDAPassn Please complete this quick survey and…,K. White,30765,532,,False,0,2,2020-10-05 17:22:59,,
-97,RT @Pares_Nicolas: Are you a #DigitalHumanities #OpenData #Researchers or service provider? @RDAPassn Please complete this quick survey and…,AIUCD,1711,1006,Italy,False,0,2,2020-10-05 16:53:39,42.6384261,12.674297
-98,Are you a #DigitalHumanities #OpenData #Researchers or service provider? @RDAPassn Please complete this quick surve… https://t.co/czvVhLRElD,Nicolas Parés,17,28,"Colorado, USA",False,1,2,2020-10-05 16:36:47,38.7251776,-105.6077167
-99,RT @CARomein: If there is anyone interested in working on Linked Legal Data (early modern ordinances) - drop me or @anwagnerdreas a line as…,Jairo Melo,8361,909,México,False,0,6,2020-10-05 12:40:09,19.4326296,-99.1331785
+We hope to debate on the multi-direction…",Neus Domenech Oller,741,neus_domenech,230,,False,https://pbs.twimg.com/profile_images/1237134484434227202/INp9vUwy_normal.jpg,0,7,2020-12-10 12:03:59,"['opencall', 'digitalhumanities']",[],,
+25,"RT @faberllull: #opencall 
+
+Science, technology and humanities or science and #digitalhumanities?
+
+We hope to debate on the multi-direction…",joel piqué,3941,jpiqueb,212,,False,https://pbs.twimg.com/profile_images/779379040864075776/J5jeFhEI_normal.jpg,0,7,2020-12-10 06:38:27,"['opencall', 'digitalhumanities']",[],,
+26,"RT @UNLGeography: 🌟COME STUDY WITH US!🌟
+
+👀Searching for a great #MA or #PhD #geography program in 🗺️📱#GIScience #cartography #webGIS #digit…",K. White,33108,DigtalHumanatee,584,,False,https://pbs.twimg.com/profile_images/1316470327149506566/dHIMR7Qq_normal.jpg,0,1,2020-12-09 23:22:51,"['MA', 'PhD', 'geography', 'GIScience', 'cartography', 'webGIS']",[],,
+27,"🌟COME STUDY WITH US!🌟
+
+👀Searching for a great #MA or #PhD #geography program in 🗺️📱#GIScience #cartography #webGIS… https://t.co/hXDuRpLLhg",Nebraska Geography,2703,UNLGeography,811,"Lincoln, Nebraska",False,https://pbs.twimg.com/profile_images/865628678150963200/V7eKsnlg_normal.jpg,6,1,2020-12-09 22:25:56,"['MA', 'PhD', 'geography', 'GIScience', 'cartography', 'webGIS']",[],40.8088861,-96.7077751
+28,"RT @faberllull: #opencall 
+
+Science, technology and humanities or science and #digitalhumanities?
+
+We hope to debate on the multi-direction…",Llull New York,4144,IRLlull_NewYork,1493,New York,False,https://pbs.twimg.com/profile_images/1061952869044289538/b6MDTGml_normal.jpg,0,7,2020-12-09 14:15:52,"['opencall', 'digitalhumanities']",[],40.7127281,-74.0060152
+29,"RT @faberllull: #opencall 
+
+Science, technology and humanities or science and #digitalhumanities?
+
+We hope to debate on the multi-direction…",Totally Real DH Person,45287,Real_Person_DH,876,Earth,False,https://pbs.twimg.com/profile_images/967506429027418114/cIlK0Mf0_normal.jpg,0,7,2020-12-09 11:16:22,"['opencall', 'digitalhumanities']",[],34.2331373,-102.4107493
+30,"RT @faberllull: #opencall 
+
+Science, technology and humanities or science and #digitalhumanities?
+
+We hope to debate on the multi-direction…",K. White,33108,DigtalHumanatee,584,,False,https://pbs.twimg.com/profile_images/1316470327149506566/dHIMR7Qq_normal.jpg,0,7,2020-12-09 10:23:13,"['opencall', 'digitalhumanities']",[],,
+31,"#opencall 
+
+Science, technology and humanities or science and #digitalhumanities?
+
+We hope to debate on the multi-d… https://t.co/8ZaFtdbQsS",faberllull,2512,faberllull,2402,Olot & Andorra,False,https://pbs.twimg.com/profile_images/1277886432791728128/ql69JfW0_normal.jpg,6,7,2020-12-09 10:21:44,"['opencall', 'digitalhumanities']",[],,
+32,"RT @lexistindall: Investment in Australian digital research infrastructure for humanities, arts &amp; social sciences! Learn more &amp; take note o…",Suzana Sukovic,11738,suzanasukovic,1277,Sydney,False,https://pbs.twimg.com/profile_images/1000869664291880960/ZTZJUlq7_normal.jpg,0,9,2020-12-09 06:49:17,[],[],-33.8548157,151.2164539
+33,"RT @lexistindall: Investment in Australian digital research infrastructure for humanities, arts &amp; social sciences! Learn more &amp; take note o…",margy maclibrary,151375,margymaclibrary,4253,YYJ,False,https://pbs.twimg.com/profile_images/1564365669/margyphoto_normal.JPG,0,9,2020-12-09 05:19:40,[],[],48.6463019,-123.4217089740095
+34,"RT @lexistindall: Investment in Australian digital research infrastructure for humanities, arts &amp; social sciences! Learn more &amp; take note o…",Sara King,2521,sarasrking,698,Australia,False,https://pbs.twimg.com/profile_images/712164926073262080/VLZlvi-M_normal.jpg,0,9,2020-12-09 03:17:30,[],[],-24.7761086,134.755
+35,"Did Google Books change the layout of their pages or is it just this one book? 
+https://t.co/mFRCQSziPM
+
+Looks much… https://t.co/EMlrjG0MAX",Valeria Federici,3564,a_ri_vale,456,"Washington, D.C.",False,https://pbs.twimg.com/profile_images/1002104390604525568/WRtYEEZH_normal.jpg,0,0,2020-12-08 14:32:53,[],[],36.29885175,-82.35919331410948
+36,"RT @lexistindall: Investment in Australian digital research infrastructure for humanities, arts &amp; social sciences! Learn more &amp; take note o…",Liz Stokes,5793,ragamouf,1008,Sydney,False,https://pbs.twimg.com/profile_images/1115770024742903808/T5EGn_B1_normal.png,0,9,2020-12-08 04:47:53,[],[],-33.8548157,151.2164539
+37,"RT @lexistindall: Investment in Australian digital research infrastructure for humanities, arts &amp; social sciences! Learn more &amp; take note o…",Ingrid Mason,23926,1n9r1d,3380,"Canberra, Australia",False,https://pbs.twimg.com/profile_images/1273083458982535170/uJrSvTSd_normal.jpg,0,9,2020-12-08 03:40:09,[],[],-35.2975906,149.1012676
+38,"RT @lexistindall: Investment in Australian digital research infrastructure for humanities, arts &amp; social sciences! Learn more &amp; take note o…",Totally Real DH Person,45287,Real_Person_DH,876,Earth,False,https://pbs.twimg.com/profile_images/967506429027418114/cIlK0Mf0_normal.jpg,0,9,2020-12-08 03:16:22,[],[],34.2331373,-102.4107493
+39,"RT @lexistindall: Investment in Australian digital research infrastructure for humanities, arts &amp; social sciences! Learn more &amp; take note o…",Katrina Grant,32296,orientalhotel,1472,Arcadia ,False,https://pbs.twimg.com/profile_images/966199604890013698/fzW0h5tT_normal.jpg,0,9,2020-12-08 03:08:07,[],[],42.0872073,-95.0461023
+40,"RT @lexistindall: Investment in Australian digital research infrastructure for humanities, arts &amp; social sciences! Learn more &amp; take note o…",K. White,33108,DigtalHumanatee,584,,False,https://pbs.twimg.com/profile_images/1316470327149506566/dHIMR7Qq_normal.jpg,0,9,2020-12-08 02:22:51,[],[],,
+41,"Investment in Australian digital research infrastructure for humanities, arts &amp; social sciences! Learn more &amp; take… https://t.co/EvsnlpyXVr",Alexis Tindall,887,lexistindall,436,"Adelaide, South Australia",False,https://pbs.twimg.com/profile_images/1294055625823883264/7fGDAx-t_normal.jpg,11,9,2020-12-08 02:18:59,[],[],-34.9281805,138.5999312
+42,RT @indieflock: I want to pull all video titles (no videos or images) from specific search terms on tube video sites for a linguistic corpu…,Aluminium-Lanthan-Uran-Ruthenium-Sulfid,17137,Lord_Allaurus,95,,False,https://pbs.twimg.com/profile_images/951070370806804480/f-papzQS_normal.jpg,0,4,2020-12-07 11:58:50,[],[],,
+43,RT @indieflock: I want to pull all video titles (no videos or images) from specific search terms on tube video sites for a linguistic corpu…,Aurelia Brandenburg,30975,hekabeohnename,2319,,False,https://pbs.twimg.com/profile_images/1043849968061239296/l4ukk238_normal.jpg,0,4,2020-12-07 11:57:17,[],[],,
+44,RT @indieflock: I want to pull all video titles (no videos or images) from specific search terms on tube video sites for a linguistic corpu…,Urs ☭,73646,muskeljesus,625,München,False,https://pbs.twimg.com/profile_images/1336926281473142785/hj0NTTR5_normal.jpg,0,4,2020-12-07 10:53:26,[],[],48.1371079,11.5753822
+45,RT @indieflock: I want to pull all video titles (no videos or images) from specific search terms on tube video sites for a linguistic corpu…,K. White,33108,DigtalHumanatee,584,,False,https://pbs.twimg.com/profile_images/1316470327149506566/dHIMR7Qq_normal.jpg,0,4,2020-12-07 10:23:06,[],[],,
+46,I want to pull all video titles (no videos or images) from specific search terms on tube video sites for a linguist… https://t.co/7vuTIGQnQX,Pascal Wagner,16636,indieflock,1159,München,False,https://pbs.twimg.com/profile_images/1185931878248996864/vZ_0qxmj_normal.jpg,3,4,2020-12-07 10:21:16,[],[],48.1371079,11.5753822
+47,"RT @DSSatPitt: Or, you know, if you're just a nerd who likes to look at #VR images of bones. 
+#digitalhumanities #digitalscholarship https:…",K. White,33108,DigtalHumanatee,584,,False,https://pbs.twimg.com/profile_images/1316470327149506566/dHIMR7Qq_normal.jpg,0,2,2020-12-06 17:22:51,"['VR', 'digitalhumanities', 'digitalscholarship']",[],,
+48,"RT @DSSatPitt: Or, you know, if you're just a nerd who likes to look at #VR images of bones. 
+#digitalhumanities #digitalscholarship https:…",VR Retweeter,18996,VrRetweeter,281,Metaverse,False,https://pbs.twimg.com/profile_images/1331039034521645057/7NqMMNDY_normal.jpg,0,2,2020-12-06 16:51:26,"['VR', 'digitalhumanities', 'digitalscholarship']",[],,
+49,"Or, you know, if you're just a nerd who likes to look at #VR images of bones. 
+#digitalhumanities… https://t.co/kIXR8qOwRG",DSS at Pitt,1052,DSSatPitt,510,Pittsburgh,False,https://pbs.twimg.com/profile_images/1190290235965530117/r6sbgyrc_normal.jpg,3,2,2020-12-06 16:49:00,"['VR', 'digitalhumanities']",[],40.4416941,-79.9900861
+50,@RojasCastroA how about this version? I send you a dm for an open google present to work with or download from. Sam… https://t.co/oIqo5Iiym4,Patrick Sahle,1794,patrick_sahle,1795,,False,https://pbs.twimg.com/profile_images/1175023547460259840/akU8aUmc_normal.jpg,0,0,2020-12-06 11:16:18,[],[],,
