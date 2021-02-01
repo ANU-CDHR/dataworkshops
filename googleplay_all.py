@@ -4,9 +4,9 @@ import pandas as pd
 import glob, os 
 
 #enter path
-path = r'./'   
+path = r'./app_name/'   
 #read all or selected csv to dataframe
-all_csv = glob.glob(os.path.join(path, "reviews_*.csv"))   
+all_csv = glob.glob(os.path.join(path, "*_reviews_*.csv"))   
 df = (pd.read_csv(f) for f in all_csv)
 df_all   = pd.concat(df, ignore_index=True)
 
