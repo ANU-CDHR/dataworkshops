@@ -2,8 +2,9 @@ The Data Workshop repository can be used as a resource for teaching and learning
 
 See demo and running examples on nbviewer. (https://nbviewer.org/github/ANU-CDHR/dataworkshops/blob/master/index.ipynb)
 
-<br/><br/>
+<br/>
 DOI: (http://doi.org/10.5281/zenodo.14759331)
+<br/>
 <a href="https://fairsoftwarechecklist.net/v0.2?f=21&a=31112&i=31222&r=123">
   <img src="https://fairsoftwarechecklist.net/badge.svg" alt="FAIR checklist badge">
 </a>
